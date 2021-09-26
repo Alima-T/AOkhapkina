@@ -1,6 +1,6 @@
  Hi! 
  
- I’m learning java and interested in participating in new projects
+ My programming language is java and I interested in participating in new projects
  
  You can reach me by email okhapka.a@gmail.ru
 
